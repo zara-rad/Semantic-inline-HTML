@@ -45,15 +45,15 @@ Add your answers directly here into the README;
 1. What is the difference between `<strong>` and `<b>`? 
 strong tag makes the word thicker & also tells the Browser that the text inside "strong" tag is important.
 
-The <b> tag specifies bold text without any extra importance.
+The b tag specifies bold text without any extra importance.
 
 2. What is the difference between `<em>` and `<i>`?
-The <em> tags,known as emphasis tags, are used to add emphasis to a text.
+The em  tags,known as emphasis tags, are used to add emphasis to a text.
 
-The <i> tags,known as italic tags, are used to color or font a text.
+The i tags,known as italic tags, are used to color or font a text.
 
 3. What is the use case for `<q>`?
-<q> tag defines a short quotation. Browsers normally insert quotation marks around the quotation.
+q tag defines a short quotation. Browsers normally insert quotation marks around the quotation.
 
 4. Which is the first version of Safari to support `<sub>`? 
 
