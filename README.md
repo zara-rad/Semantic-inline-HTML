@@ -48,13 +48,28 @@ strong tag makes the word thicker & also tells the Browser that the text inside 
 The <b> tag specifies bold text without any extra importance.
 
 2. What is the difference between `<em>` and `<i>`?
+The <em> tags,known as emphasis tags, are used to add emphasis to a text.
+
+The <i> tags,known as italic tags, are used to color or font a text.
+
 3. What is the use case for `<q>`?
-4. Which is the first version of Safari to support `<sub>`?
+<q> tag defines a short quotation. Browsers normally insert quotation marks around the quotation.
+
+4. Which is the first version of Safari to support `<sub>`? 
+
+Apple released the first beta version exclusively on Mac OS X the same day. Later that date, several official and unofficial beta versions followed until version 1.0 was released on June 23, 2003.
 
 ### Optional Bonus Challenge Task
 
 The `<strike>` element is deprecated
 
 1. What does that mean?
-2. How can you achieve the same result with a `<span>` element and CSS?
+The <strike> HTML element places a strikethrough (horizontal line) over text.
+
+2. How can you achieve the same result with a `<span>` element and CSS? 
+
+wrap it in a span tag, give it a class attribute, then select it with the attribute value for styling. 
+
 3. How can you achieve the same result... without CSS?
+
+Table-based layouts, JavaScript, inline styles, and server-side styling are all viable alternatives to CSS. 
