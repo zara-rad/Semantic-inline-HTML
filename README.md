@@ -64,7 +64,7 @@ Apple released the first beta version exclusively on Mac OS X the same day. Late
 The `<strike>` element is deprecated
 
 1. What does that mean?
-The <strike> HTML element places a strikethrough (horizontal line) over text.
+The /strike/  HTML element places a strikethrough (horizontal line) over text.
 
 2. How can you achieve the same result with a `<span>` element and CSS? 
 
