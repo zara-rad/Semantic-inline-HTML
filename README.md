@@ -42,7 +42,11 @@ Research the following questions on [MDN](https://developer.mozilla.org/en-US/).
 
 Add your answers directly here into the README;
 
-1. What is the difference between `<strong>` and `<b>`?
+1. What is the difference between `<strong>` and `<b>`? 
+strong tag makes the word thicker & also tells the Browser that the text inside "strong" tag is important.
+
+The <b> tag specifies bold text without any extra importance.
+
 2. What is the difference between `<em>` and `<i>`?
 3. What is the use case for `<q>`?
 4. Which is the first version of Safari to support `<sub>`?
