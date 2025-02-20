@@ -12,6 +12,7 @@ Refer to the screenshot below for an example of the final result.
 
 ## Tasks
 
+
 ### Task 1
 
 Apply the `<sup>` element on ordinal number endings, for example _th_ and _st_ which may appear after a number.
